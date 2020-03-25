@@ -1,0 +1,12 @@
+codepen.io
+
+colorpicker.com
+subtlepatterns.com
+
+developer.mozilla.org/en-US/docs/Web/CSS/Reference
+css-tricks.com/almanac
+csszengarden.com
+
+specificity.keegan.st
+
+https://stackoverflow.com/questions/2570972/css-font-border
