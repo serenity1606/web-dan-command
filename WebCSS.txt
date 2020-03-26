@@ -10,3 +10,5 @@ csszengarden.com
 specificity.keegan.st
 
 https://stackoverflow.com/questions/2570972/css-font-border
+
+https://meyerweb.com/eric/tools/css/reset/
