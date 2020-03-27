@@ -2,6 +2,7 @@ codepen.io
 
 colorpicker.com
 subtlepatterns.com
+unsplash.com
 
 developer.mozilla.org/en-US/docs/Web/CSS/Reference
 css-tricks.com/almanac
@@ -11,4 +12,6 @@ specificity.keegan.st
 
 https://stackoverflow.com/questions/2570972/css-font-border
 
+Tricks
+http://nicolasgallagher.com/micro-clearfix-hack/
 https://meyerweb.com/eric/tools/css/reset/
