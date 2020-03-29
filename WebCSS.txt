@@ -4,6 +4,9 @@ colorpicker.com
 subtlepatterns.com
 unsplash.com
 
+
+https://imgbin.com/download-png/xb4Fjk7b
+
 developer.mozilla.org/en-US/docs/Web/CSS/Reference
 css-tricks.com/almanac
 csszengarden.com
@@ -12,6 +15,20 @@ specificity.keegan.st
 
 https://stackoverflow.com/questions/2570972/css-font-border
 
+http://www.quackit.com/css/css3/properties/
+
+shouldiprefix.com
+caniuse.com
+pleeease.io/play
+
+Fonts
+fonts.google.com
+fontsquirell.com
+fontspring.com
+webtype.com
+typotheque.com
+
 Tricks
 http://nicolasgallagher.com/micro-clearfix-hack/
 https://meyerweb.com/eric/tools/css/reset/
+
